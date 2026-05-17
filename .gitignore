@@ -1,0 +1,12 @@
+# MySQL dump files
+*.dump
+*.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
